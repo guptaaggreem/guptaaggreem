@@ -12,6 +12,17 @@
 
   <br/><br/>
 
+  <!-- Primary Navigation: Live Portfolio & Resume -->
+  <a href="https://guptaaggreem.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-guptaaggreem.github.io-0284c7?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://guptaaggreem.github.io/resume/" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Interactive_Resume-View_%2F_PDF-8b5cf6?style=for-the-badge&logoColor=white" alt="Interactive Resume" />
+  </a>
+
+  <br/><br/>
+
   <!-- Social & Profile Badges -->
   <a href="https://www.linkedin.com/in/aggreem-gupta-147778404/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -39,10 +50,14 @@ name: Aggreem Gupta
 role: AI Student & GenAI Developer
 education: B.Tech in AI + Mini MBA @ Zenith School of AI (Class of 2030)
 focus: Generative AI, Retrieval-Augmented Generation (RAG), Vector Search
+portfolio: https://guptaaggreem.github.io
+resume: https://guptaaggreem.github.io/resume/
 location: New Delhi, India
 status: Exploring Agentic Workflows & Multimodal AI
 ```
 
+- 🌐 **Live Portfolio:** Explore my interactive web portfolio at [guptaaggreem.github.io](https://guptaaggreem.github.io).
+- 📄 **Creative Resume:** View or print my ATS-ready resume at [guptaaggreem.github.io/resume/](https://guptaaggreem.github.io/resume/).
 - 🎓 Currently pursuing a **B.Tech in Artificial Intelligence + Mini MBA** at **Zenith School of AI** *(1st Year)*.
 - 🤖 Enthusiastic about **Generative AI, RAG Pipelines, and Semantic Vector Search**, building intelligent agents that eliminate operational bottlenecks.
 - 💡 Creator of **CampusBrain** and **CompanyBrain** — enterprise & academic AI hubs transforming manual workflows into conversational intelligence.
@@ -146,6 +161,14 @@ status: Exploring Agentic Workflows & Multimodal AI
 ### 📬 Connect With Me
 
 <div align="center">
+  <a href="https://guptaaggreem.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://guptaaggreem.github.io/resume/" target="_blank">
+    <img src="https://img.shields.io/badge/Creative_Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/aggreem-gupta-147778404/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
