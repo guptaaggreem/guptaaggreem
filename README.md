@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
+  <!-- Custom High-Tech Aesthetic AI Banner -->
   <a href="https://github.com/guptaaggreem">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Aggreem%20Gupta&fontSize=52&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20GenAI%20%26%20RAG%20Architect%20%7C%20Tech%20Enthusiast&descAlignY=62&descSize=19&descAlign=50" width="100%" alt="Aggreem Gupta Banner" />
+    <img src="./assets/banner.svg" width="100%" alt="Aggreem Gupta - AI Student & GenAI Architect Banner" />
   </a>
 
   <!-- Animated Typing Tagline -->
